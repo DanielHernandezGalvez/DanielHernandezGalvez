@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
+My name is Daniel, I was born in Jalisco, México
 
-<!--
-**DanielHernandezGalvez/DanielHernandezGalvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm starting to get involved in FrontEnd development
 
-Here are some ideas to get you started:
+⭐Knowledge:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-HTML5
+-CSS
+-SASS
+-Git & GitHub
+-Bootstrap
+-JavaScript
+-React.JS
+-graphic design
