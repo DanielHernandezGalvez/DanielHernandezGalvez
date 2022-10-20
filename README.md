@@ -10,15 +10,15 @@ I'm starting to get involved in FrontEnd development
 
 -CSS3
 
--SASS
-
--Git & GitHub
-
--Bootstrap
-
 -JavaScript
 
 -React.JS
+
+-Bootstrap
+
+-SASS
+
+-Git & GitHub
 
 -Graphic design
 
