@@ -24,6 +24,8 @@ I'm starting to get involved in FrontEnd development
 
 👯 I am working as a freelance forntEnd developer in an ecommerce for a company in Peru
 
+⭐ I wish I could work in a formal position as a frontend developer
+
 💬 Ask me about what you want to know
 
   - Email: hernandezgalvezalejandro@gmail.com
