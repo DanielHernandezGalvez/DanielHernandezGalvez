@@ -8,7 +8,7 @@ I'm starting to get involved in FrontEnd development
 
 -HTML5
 
--CSS3
+-CSS
 
 -JavaScript
 
