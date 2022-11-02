@@ -6,7 +6,7 @@ I'm starting to get involved in FrontEnd development
 
 ⭐Knowledge:
 
--HTML5
+-HTML
 
 -CSS3
 
