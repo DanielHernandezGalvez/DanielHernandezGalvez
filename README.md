@@ -1,5 +1,5 @@
 Hi there! 👋👋👋
-.
+
 My name is Daniel, I was born in Jalisco, México
 
 I'm starting to get involved in FrontEnd development
