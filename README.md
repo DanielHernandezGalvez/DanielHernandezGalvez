@@ -12,7 +12,7 @@ I'm starting to get involved in FrontEnd development
 
 -JavaScript
 
--React.JS
+-React.JS y Redux
 
 -Bootstrap
 
