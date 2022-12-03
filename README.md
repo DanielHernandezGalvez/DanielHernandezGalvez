@@ -32,8 +32,7 @@ I'm starting to get involved in React FrontEnd development
   
   - LinkedIn: https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/
   
-  - Website.
-: https://portafoliodanielgalvez.web.app/
+  - Website: https://portafoliodanielgalvez.web.app/
   
 
 
