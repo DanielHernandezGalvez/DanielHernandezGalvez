@@ -1,6 +1,6 @@
 Hi there! 👋👋👋
 
-My name is Daniel, I am a FrontEnd Developer from Jalisco, México
+I´m Daniel, I am a FrontEnd Developer from Jalisco, México
 
 
 
