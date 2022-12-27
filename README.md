@@ -4,7 +4,7 @@ I'm Daniel, I am a FrontEnd Developer from Jalisco, México
 
 
 
-⭐⭐Skills⭐
+⭐⭐Skills⭐⭐
 
 -HTML5
 
