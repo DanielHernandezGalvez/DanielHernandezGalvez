@@ -22,6 +22,8 @@ I'm Daniel, I am a FrontEnd Developer from Jalisco, México
 
 -Graphic design
 
+-Node js
+
 👯 I am working as a freelance forntEnd developer
 
 ⭐ I wish I could work in a formal position as a frontend developer
