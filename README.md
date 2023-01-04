@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Gálvez</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhernandezgalvez&label=Profile%20views&color=e3b041&style=flat" alt="danielhernandezgalvez" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +23,7 @@
   
   - Website: https://daniel-galvez-website.netlify.app/
   
+  <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=danielhernandezgalvez&label=Profile%20views&color=e3b041&style=flat" alt="danielhernandezgalvez" /> </p>
+
 
 
