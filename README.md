@@ -15,7 +15,7 @@
 💬 Ask me about what you want to know
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
 <p><a href="https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="daniel gálvez" height="40" width="40" /></a></p>
   <p>
 <a href="https://daniel-galvez-website.netlify.app/"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3003/3003511.png" height="40" width="40" /></a>
@@ -24,11 +24,7 @@
     <a href="mailto:hernandezgalvezalejandro@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="daniel gálvez" height="40" width="40" /></a></p>
   </div>
 
-  - Email: hernandezgalvezalejandro@gmail.com
-  
-  - LinkedIn: https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/
-  
-  - Website: https://daniel-galvez-website.netlify.app/
+ 
   
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielhernandezgalvez&label=Profile%20views&color=e3b041&style=flat" alt="danielhernandezgalvez" /> </p>
 
