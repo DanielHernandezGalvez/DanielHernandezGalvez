@@ -2,7 +2,9 @@ Hi there! 👋👋👋
 
 I'm Daniel, I am a FrontEnd Developer from Jalisco, México
 
-
+<div>
+<img src="https://img.shields.io/github/watchers/DanielHernandezGalvez/DanielHernandezGalvez?logo=GitHub&style=social" />
+</div>
 
 ⭐⭐Skills⭐⭐
 
