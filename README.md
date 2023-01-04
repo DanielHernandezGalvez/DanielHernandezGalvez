@@ -6,11 +6,9 @@
 <div align="center">
 <p>
 <a href="https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel gálvez" height="30" width="40" /></a>
-</p>
-  <p>
+</p><p>
 <a href="https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel gálvez" height="30" width="40" /></a>
-</p>
-  <p>
+</p><p>
 <a href="https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel gálvez" height="30" width="40" /></a>
 </p>
   </div>
