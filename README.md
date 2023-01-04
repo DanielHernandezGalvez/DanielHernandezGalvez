@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
+<h4>Available to work</h4>
+<hr>
+
+
+
 
 
 
@@ -16,11 +21,7 @@
 <br>
 <br>
 
-👯 I am working as a freelance forntEnd developer
 
-⭐ I wish I could work in a formal position as a frontend developer
-
-💬 Ask me about what you want to know
 
 
 
