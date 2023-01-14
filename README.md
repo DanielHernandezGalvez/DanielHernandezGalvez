@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
-<h4>Available to work</h4>
+<!-- <h4>Available to work</h4> -->
 <hr>
 
 
