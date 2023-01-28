@@ -19,7 +19,7 @@
 <br>
 <hr>
 
-<!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielhernandezgalvez&show_icons=true&title_color=e3b023&text_color=e6e6e6&bg_color=1a1a1a&locale=en&layout=compact" alt="danielhernandezgalvez" /></p>  -->
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielhernandezgalvez&show_icons=true&title_color=e3b023&text_color=e6e6e6&bg_color=1a1a1a&locale=en&layout=compact" alt="danielhernandezgalvez" /></p> 
 
 
 
