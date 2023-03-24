@@ -20,7 +20,7 @@
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DanienHernandezGalvez=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DanielHernandezGalvez=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielhernandezgalvez&show_icons=true&title_color=e3b023&text_color=e6e6e6&bg_color=1a1a1a&locale=en&layout=compact" alt="danielhernandezgalvez" /></p> 
 
