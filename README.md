@@ -25,7 +25,7 @@
 <hr>
 <details>
   <summary>CV</summary>
-<details>
+
   <summary>Información Personal</summary>
   
   - Nombre: Daniel Alejandro Hernández Gálvez
@@ -34,9 +34,9 @@
   - Website: [daniel-galvez-website.netlify.app](https://daniel-galvez-website.netlify.app/)
   - LinkedIn: [linkedin.com/in/-daniel-galvez-dev/](https://www.linkedin.com/in/-daniel-galvez-dev/)
   - GitHub: [github.com/DanielHernandezGalvez](https://github.com/DanielHernandezGalvez)
-</details>
 
-<details>
+
+
   <summary>Experiencia</summary>
   
   ### Núcleo de Diagnóstico
@@ -48,9 +48,7 @@
   #### Diseñador Gráfico - Abril 2022 - Enero 2023
   Diseño publicitario y maquetación web. A través de esto, descubrí mi pasión por el desarrollo de software.
   Tecnologías utilizadas: Figma, Illustrator, HTML y CSS.
-</details>
 
-<details>
   <summary>Habilidades</summary>
   
   - Programación: Javascript
@@ -59,15 +57,12 @@
   - Diseño: Figma, Illustrator y Photoshop
   - Herramientas: Git, Notion y Monday
   - Idiomas: Inglés B1 (Intermedio)
-</details>
 
-<details>
   <summary>Educación</summary>
   
   - Bootcamp de Desarrollo FullStack - SoyHenry
   - Carrera de Desarrollo Frontend - CoderHouse
   - Licenciatura en Relaciones Públicas y Comunicación - Universidad de Guadalajara
-</details>
   </details>
 <hr>
 
