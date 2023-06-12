@@ -52,7 +52,7 @@
 
   <summary>Habilidades</summary>
   
-  - Programación: Javascript
+  - Programación: Javascript, PHP
   - Diseño web: HTML, CSS, Wordpress y SCSS
   - Frameworks: React.js, Next.js, Bootstrap y Express
   - Diseño: Figma, Illustrator y Photoshop
