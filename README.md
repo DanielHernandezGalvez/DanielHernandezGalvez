@@ -1,5 +1,5 @@
 <h1 align="center">Hola Mundo 👋, soy Dani</h1>
-<h3 align="center">Un apasionado Desarrollador de México </h3>
+<h3 align="center">Un apasionado Desarrollador web de México </h3>
 <h4  align="center">Trabajo como Frontend en <b>Nucleo de Diagnóstico</b></h4> 
 <hr>
 
