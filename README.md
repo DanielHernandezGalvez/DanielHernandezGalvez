@@ -22,7 +22,7 @@
 
 
 
-
+<!--
 <hr>
 <details>
   <summary>CV</summary>
@@ -66,6 +66,7 @@
   - Licenciatura en Relaciones Públicas y Comunicación - Universidad de Guadalajara
   </details>
 <hr>
+-->
 
 <h3 align="left">Contáctame:</h3>
 <p align="center">
