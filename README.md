@@ -36,8 +36,6 @@
   - LinkedIn: [linkedin.com/in/-daniel-galvez-dev/](https://www.linkedin.com/in/-daniel-galvez-dev/)
   - GitHub: [github.com/DanielHernandezGalvez](https://github.com/DanielHernandezGalvez)
 
-
-
   <summary>Experiencia</summary>
   
   ### Núcleo de Diagnóstico
