@@ -3,7 +3,6 @@
 <h4  align="center">Trabajo como Frontend en <b>Nucleo de Diagnóstico</b></h4> 
 <hr>
 
-
 <!--Hello World I am Dany-->
 <!--
 <h3 align="left">Lenguajes y herramientas:</h3>
