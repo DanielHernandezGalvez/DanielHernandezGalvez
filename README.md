@@ -1,6 +1,6 @@
-<h1 align="center">Hola Mundo 👋, soy Dani</h1>
-<h3 align="center">Un apasionado Desarrollador web de México </h3>
-<h4  align="center">Trabajo como Frontend en <b>Nucleo de Diagnóstico</b></h4> 
+<h1 align="center">Hello world 👋, I am Dani</h1>
+<h3 align="center">A passionated Web Developer from Mexico </h3>
+<h4  align="center">Working in <b>Wolf Marketing 360</b></h4> 
 <hr>
 
 <!--Hello World I am Dany-->
