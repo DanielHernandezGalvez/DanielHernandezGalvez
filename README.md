@@ -66,7 +66,7 @@
 <hr>
 -->
 
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">Let's talk</h3>
 <p align="center">
   
 <a href="https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="daniel gálvez" height="40" width="40" /></a>
