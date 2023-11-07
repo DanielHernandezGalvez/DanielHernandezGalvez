@@ -5,7 +5,7 @@
 
 <!--Hello World I am Dany-->
 <!--
-<h3 align="left">Lenguajes y herramientas:
+<h3 align="left">Lenguajes y herramien
 <p align="tstrap" width="40" height="40<hreps://src="https://raw.githubusercontent.com/devicons/devaicons/css3/css3-original-wordmark.svg" alt="css3"  height="40"/> <<a href="https://wwwcker.com/" target="_blanreferrer"> <img src="htercontent.com/ons/devicon/on/master/icons/vg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescrip/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
