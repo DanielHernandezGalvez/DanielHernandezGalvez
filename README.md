@@ -108,7 +108,15 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
       height="60"
     />
   </a>
-
+  
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="60"
+      height="60"
+    />
+  </a>
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
@@ -118,46 +126,10 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
       height="60"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="60"
-      height="60"
-    />
-  </a>
-
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="60"
-      height="60"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
       width="60"
       height="60"
     />
@@ -202,17 +174,33 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
       height="60"
     />
   </a>
-
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
       width="60"
       height="60"
     />
   </a>
-
-
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="60"
+      height="60"
+    />
+  </a>
+    <a
+    href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank"
+    rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      alt="illustrator"
+      width="60"
+      height="60"
+    />
+  </a>
 </p>
 
 <!--
