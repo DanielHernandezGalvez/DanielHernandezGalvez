@@ -138,8 +138,7 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
   <a
     href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="illustrator"
