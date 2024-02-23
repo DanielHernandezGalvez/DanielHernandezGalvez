@@ -266,7 +266,7 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
 <h3 align="left">Let's talk</h3>
 <p align="left">
   <a
-    href="https://www.linkedin.com/in/-daniel-g%C3%A1lvez-70a897230/"
+    href="https://www.linkedin.com/in/-daniel-galvez-dev"
     target="_blank"
     ><img
       src="https://cdn-icons-png.flaticon.com/128/145/145807.png"
