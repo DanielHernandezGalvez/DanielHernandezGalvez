@@ -292,9 +292,9 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
   /></a>
 </p>
 
-<!-- <p align="right">
+ <p align="right">
   <img
     src="https://komarev.com/ghpvc/?username=danielhernandezgalvez&label=Profile%20views&color=e3b041&style=flat"
     alt="danielhernandezgalvez"
   />
-</p> -->
+</p> 
