@@ -6,7 +6,7 @@
 <!--Hello World I am Dany-->
 <!--
 <h3 align="le>Lenguajes y herramien
-<p align="tp" wi//src="ht/aw.githubusercontent.com/odev/css3/css3-original-wordmark.svlt="  height="40="https://wwwarget=lanre <src=rcnt.com/devon/on/icons/vg" altss" width="40" ="40"/> </a> href="https:.typesc/""beleferr>aw.grent.onson/master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="40"/> </p>
+<p align="tp" wi//src="ht/aw.githubusercontent.com/odev/css3/css3-original-wordmark.svlt="  height="40="https://wwwarget= <src=rcnt.com/devon/on/icons/vg" altss" width="40" ="40"/> </a> href="https:.typesc/""beleferr>aw.grent.onson/master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="40"/> </p>
 https://cdn.worldvectorlogo.cogos/nextjs-2.
 https://daniel-galvez-website.netlify.app/img/next.png -->
 
