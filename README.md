@@ -6,7 +6,7 @@
 <!--Hello World I am Dany-->
 <!--
 <h3 align="lees y herramien
-<p align="tp" wi//src="ht/aw.gibusercontent.com/odev/css3/css3-original-wordmark.svlt="  height="40="https://wwwarget= <src=rcnt.com/devon/on/icons/vg" altss" width="40" ="40"/> </a> href="https:.typesc/""beleferr>aw.grent.onson/master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="
+<p align="tp" wi//src="ht/awbusercontent.com/odev/css3/css3-original-wordmark.svlt="  height="40="https://wwwarget= <src=rcnt.com/devon/on/icons/vg" altss" width="40" ="40"/> </a> href="https:.typesc/""beleferr>aw.grent.onson/master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="
 https://cdn.worldvectorlogo.cogos/nextjs-2.
 https://daniel-galvez-website.netlify.app/img/next.png -->
 
