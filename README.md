@@ -275,7 +275,7 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
       width="40"
   /></a>
 
-  <a href="https://daniel-galvez-website.netlify.app/"
+  <a href="https://daniel-galvez-website.netlify.app/" target="_blank"
     ><img
       src="https://cdn-icons-png.flaticon.com/128/3003/3003511.png"
       height="40"
