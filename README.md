@@ -34,7 +34,7 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
   </a>
    <a href="https://imgs.search.brave.com/D8ky3UqkKOvbyuV6JdXJtgAYRt9y4afj8y28vtb0Oxs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/L2E0NjkxZjA0ZmYy/MTljMWMyYWEwMmZj/NjFmZGE0MWFhNDNm/MTQ1OWEvdG9waWNz/L2p1cHl0ZXItbm90/ZWJvb2svanVweXRl/ci1ub3RlYm9vay5w/bmc">
         <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://imgs.search.brave.com/D8ky3UqkKOvbyuV6JdXJtgAYRt9y4afj8y28vtb0Oxs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/L2E0NjkxZjA0ZmYy/MTljMWMyYWEwMmZj/NjFmZGE0MWFhNDNm/MTQ1OWEvdG9waWNz/L2p1cHl0ZXItbm90/ZWJvb2svanVweXRl/ci1ub3RlYm9vay5w/bmc"
       alt="typescript"
       width="60"
       height="60"
