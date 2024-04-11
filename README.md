@@ -32,14 +32,6 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
       height="60"
     />
   </a>
-   <a href="https://imgs.search.brave.com/D8ky3UqkKOvbyuV6JdXJtgAYRt9y4afj8y28vtb0Oxs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/L2E0NjkxZjA0ZmYy/MTljMWMyYWEwMmZj/NjFmZGE0MWFhNDNm/MTQ1OWEvdG9waWNz/L2p1cHl0ZXItbm90/ZWJvb2svanVweXRl/ci1ub3RlYm9vay5w/bmc">
-        <img
-      src="https://imgs.search.brave.com/D8ky3UqkKOvbyuV6JdXJtgAYRt9y4afj8y28vtb0Oxs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/L2E0NjkxZjA0ZmYy/MTljMWMyYWEwMmZj/NjFmZGE0MWFhNDNm/MTQ1OWEvdG9waWNz/L2p1cHl0ZXItbm90/ZWJvb2svanVweXRl/ci1ub3RlYm9vay5w/bmc"
-      alt="typescript"
-      width="60"
-      height="60"
-    />
-  </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -205,6 +197,14 @@ https://daniel-galvez-website.netlify.app/img/next.png -->
     <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="illustrator"
+      width="60"
+      height="60"
+    />
+  </a>
+     <a    href="https://imgs.search.brave.com/D8ky3UqkKOvbyuV6JdXJtgAYRt9y4afj8y28vtb0Oxs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/L2E0NjkxZjA0ZmYy/MTljMWMyYWEwMmZj/NjFmZGE0MWFhNDNm/MTQ1OWEvdG9waWNz/L2p1cHl0ZXItbm90/ZWJvb2svanVweXRl/ci1ub3RlYm9vay5w/bmc">
+        <img
+      src="https://imgs.search.brave.com/D8ky3UqkKOvbyuV6JdXJtgAYRt9y4afj8y28vtb0Oxs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2dp/dGh1Yi9leHBsb3Jl/L2E0NjkxZjA0ZmYy/MTljMWMyYWEwMmZj/NjFmZGE0MWFhNDNm/MTQ1OWEvdG9waWNz/L2p1cHl0ZXItbm90/ZWJvb2svanVweXRl/ci1ub3RlYm9vay5w/bmc"
+      alt="jupyter notebook"
       width="60"
       height="60"
     />
