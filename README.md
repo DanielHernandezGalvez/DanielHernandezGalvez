@@ -7,7 +7,7 @@
 <!--
 <h3 align="lees y herramien
 <p ac/""beleferr>aw.grent.onson/master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="
-https://cdn.worldvectorlogo.cogos/nextjs-2.
+https://cdn.worldvect
 https://daniel-galvez-website.netlify.app/img/next.png -->
 
 <h3 align="left">Languages and Tools:</h3>
