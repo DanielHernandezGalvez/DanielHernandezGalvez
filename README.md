@@ -6,7 +6,7 @@
 <!--Hello World I am Dany-->
 <!--
 <h3 align="lees y herramien
-<p ac/""beleferr>aw.grent.onson/master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="
+<p ac/""beleferr>aw.grent.master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="
 https://cdn.worldvect
 https://daniel-galvez-website.netlify.app/img/next.png -->
 
