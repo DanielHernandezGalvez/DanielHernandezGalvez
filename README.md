@@ -3,13 +3,6 @@
 <h4 align="center">Working in <b>Wolf Marketing 360</b></h4>
 <hr />
 
-<!--Hello World I am Dany-->
-<!--
-<h3 align="lees y herramien
-<p ac/""beleferr>aw.grent.master/icons/typescript/typescpt-original.svg" alt="typescriptdth="40ight="
-https://cdn.worldvect
-https://daniel-galvez-website.netlify.app/img/next.png -->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a
