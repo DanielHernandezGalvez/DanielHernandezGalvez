@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I am Dani</h1>
 <h3 align="center">A passionated Web Developer from Mexico</h3>
 <h4 align="center">Working in <b>Wolf Marketing 360</b></h4>
-<h5>Peograming in El Creador Web</h5>
+<h5>Programming at El Creador Web</h5>
 <hr />
 
 <h3 align="left">Languages and Tools:</h3>
