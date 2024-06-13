@@ -234,7 +234,7 @@
       width="40"
   /></a>
 </p>
-<p>
+<p align="center">
   <a href="mailto:hernandezgalvezalejandro@gmail.com" target="_blank"
     ><img
       src="https://cdn-icons-png.flaticon.com/128/732/732200.png"
