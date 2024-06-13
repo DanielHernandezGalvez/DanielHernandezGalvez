@@ -226,7 +226,8 @@
       height="40"
       width="40"
   /></a>
-
+</p>
+<p align="center">
   <a href="https://daniel-galvez.elcreadorweb.com/" target="_blank"
     ><img
       src="https://cdn-icons-png.flaticon.com/128/3003/3003511.png"
