@@ -215,8 +215,8 @@
 
 
 
-<h3 align="left">Let's talk</h3>
-<p align="left">
+<h3 align="center">Let's talk</h3>
+<p align="center">
   <a
     href="https://www.linkedin.com/in/-daniel-galvez-dev"
     target="_blank"
