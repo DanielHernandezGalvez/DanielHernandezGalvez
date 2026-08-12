@@ -39,7 +39,7 @@
   /></a>
 </p>
 <p align="center">
-  <a href="https://daniel-galvez.elcreadorweb.com/" target="_blank"
+  <a href="https://elcreadorweb.com/" target="_blank"
     ><img
       src="https://cdn-icons-png.flaticon.com/128/3003/3003511.png"
       height="40"
