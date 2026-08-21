@@ -11,13 +11,10 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhernandezgalvez&layout=compact&theme=tokyonight)
-
 <p align="center">
   <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhernandezgalvez&layout=compact&theme=tokyonight"
-    alt="danielhernandezgalvez"
+    alt="Top Languages"
   />
 </p>
 
