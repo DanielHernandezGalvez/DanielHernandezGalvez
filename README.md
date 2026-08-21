@@ -10,11 +10,8 @@
 
 
 <hr>
- [![Top Langs](https://github[](url)-readme-stats.vercel.app/api/top-langs/?username=DanielHernandezGalvez&layout)](https://github.com/anuraghazra/github-readme-stats) 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhernandezgalvez&show_icons=true&locale=en" alt="danielhernandezgalvez" /></p>
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhernandezgalvez&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img
