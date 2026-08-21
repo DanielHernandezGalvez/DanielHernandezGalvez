@@ -11,11 +11,26 @@
 
 <hr>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhernandezgalvez&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+## 🚀 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb,supabase" />
+</p>
+
+### CMS & E-commerce
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma" />
 </p>
 
 <br />
