@@ -101,8 +101,9 @@ Building and customizing online stores with:
 
 ---
 
-<!-- ## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=danielhernandezgalvez&show_icons=true&theme=tokyonight&hide_border=true"
@@ -112,6 +113,14 @@ Building and customizing online stores with:
 </p>
 
 --- -->
+
+<p align="center">
+  <img
+    src="https://vani-stats.vercel.app/api?username=danielhernandezgalvez&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
 
 ## 📫 Let's Connect
 
